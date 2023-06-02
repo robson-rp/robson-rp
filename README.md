@@ -1,12 +1,17 @@
 - 👋 Hi, I’m @robson-rp
-- 👀 I’m interested in mobile development
-- 🌱 I’m currently learning Flutter framework
+- 💼 Currently working as a freelancer software developer
+- 🌱 I'm constantly learning and exploring new technologies, especially in the field of mobile app development.
 - 💞️ I’m looking to collaborate on open source projetcs
-- 📫  What's the next challenge? 
-- Email: robson.paulo6060@gmail.com
-- Exercism: https://exercism.org/profiles/robson-rp
+
 - Linkedin: https://www.linkedin.com/in/robson-paulo-8978a7220/
-- Twitter: https://twitter.com/robson_rtp
+
+# My Skills
+
+- Flutter and Dart
+- Mobile App Development
+- UI/UX Design
+- Git and Version Control
+- Agile Development Methodologies
 
 <!---
 robson-rp/robson-rp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
