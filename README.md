@@ -5,13 +5,9 @@
 
 - Linkedin: https://www.linkedin.com/in/robson-paulo-8978a7220/
 
-# My Skills
+# Tools & Technologies
 
-- Flutter and Dart
-- Mobile App Development
-- UI/UX Design
-- Git and Version Control
-- Agile Development Methodologies
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,mysql,nodejs,git,firebase,figma,node,github,idea&perline=3)](https://skillicons.dev)
 
 <!---
 robson-rp/robson-rp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
