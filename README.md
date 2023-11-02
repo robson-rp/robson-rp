@@ -7,7 +7,7 @@
 
 # Tools & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,mysql,nodejs,git,firebase,figma,github,idea&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,mysql,nodejs,js,ts,git,firebase,figma,github,idea&perline=3)](https://skillicons.dev)
 
 <!---
 robson-rp/robson-rp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
