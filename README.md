@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @robson-rp
-- 💼 Currently working as a mobile software developer
+- 💼 Currently working as a mobile and backend engineer
 - 🌱 I'm constantly learning and exploring new technologies, especially in the field of mobile app development.
 - 💞️ I’m looking to collaborate on open source projetcs
 
